@@ -1,3 +1,3 @@
 Welcome to Freeflow Pages Wiki
 
-This is Master branch
+This is the Master branch
